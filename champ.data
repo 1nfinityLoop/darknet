@@ -1,0 +1,5 @@
+classes= 3 
+train  = champ-train.txt  
+valid  = champ-test.txt  
+names = champ.names  
+backup = backup/
